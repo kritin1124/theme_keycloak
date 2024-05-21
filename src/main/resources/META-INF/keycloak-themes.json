@@ -29,6 +29,12 @@
                 "admin",
                 "account"
             ]
+        },
+        {
+            "name": "custom",
+            "types": [
+                "login"
+            ]
         }
     ]
 }
